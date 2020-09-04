@@ -28,7 +28,7 @@ int main()
     vector<vector<int>> arr1;
     vector<int> aux;
 
-    /*ARRAY 10000 DE TAMANO 4*/
+    
     for(int i = 0; i < tam;i++)
     {
         for (int j = 0; j < dimen; j++)
